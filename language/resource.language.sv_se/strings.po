@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
-"PO-Revision-Date: 2025-06-11 15:36+0000\n"
+"PO-Revision-Date: 2026-01-01 23:58+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-copacetic/sv_se/>\n"
 "Language: sv_se\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.15.1\n"
 
 msgctxt "Addon Summary"
 msgid "A real good time with your media."
@@ -440,7 +440,7 @@ msgstr "Med"
 # /16x9/Components_OSD.xml
 msgctxt "#31300"
 msgid "Rated"
-msgstr "Betygsatt"
+msgstr "Klassning"
 
 # /16x9/Content_OSD.xml
 # /16x9/Notifications.xml
@@ -882,31 +882,26 @@ msgid "Enable widgets on the home screen"
 msgstr "Aktivera widgetar på hemskärmen"
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31529"
 msgid "Add widgets to your homescreen. To configure, go to the Widgets tab in the left menu. Choose from preset widgets, such as 'Continue watching', 'Next up' and 'Liked songs', or configure your own using any plugin source. Then select the view and display type you want to use for each widget. For custom widgets, you can also set the name, sort method and limit."
-msgstr "Lägg till widgetar på din startskärm. För att konfigurera, gå till fliken Widgets i menyn till vänster. Välj bland förinställda widgetar, som \"Fortsätt titta\", \"Nästa\" och \"Gillade låtar\", eller konfigurera dina egna med hjälp av en plugin-källa. Välj sedan den vy och visningstyp som du vill använda för varje widget. För anpassade widgetar kan du också ange namn, sorteringsmetod och gräns."
+msgstr "Lägg till widgetar på din startskärm. För att konfigurera, gå till fliken Widgetar i menyn till vänster. Välj bland förinställda widgetar, som \"Fortsätt titta\", \"Nästa\" och \"Gillade låtar\", eller konfigurera dina egna med hjälp av en tilläggskälla. Välj sedan den vy och visningstyp som du vill använda för varje widget. För anpassade widgetar kan du också ange namn, sorteringsmetod och gräns."
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31430"
 msgid "Reset home screen widgets"
-msgstr "Återställ widgetar på startskärmen"
+msgstr "Återställ widgetar på hemskärmen"
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31530"
 msgid "Reset home widgets to Copacetic defaults: 1. Continue watching 2. Next up 3. Latest movies 4. Latest TV shows"
-msgstr "Återställ hemwidgets till Copacetic-standardvärden: 1. Fortsätt titta 2. Nästa 3. Senaste filmer 4. Senaste TV-programmen"
+msgstr "Återställ hemwidgetar till Copacetics standardvärden: 1. Fortsätt titta 2. Next up 3. Senaste filmer 4. Senaste TV-serier"
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31431"
 msgid "Are you sure you want to reset all home widgets back to default?"
-msgstr "Är du säker på att du vill återställa alla hemwidgetar till standardinställningarna?"
+msgstr "Är du säker på att du vill återställa alla hemwidgetar till standardinställningar?"
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31704"
 msgid "Enable global search on the home screen"
 msgstr "Aktivera global sökning på hemskärmen"
@@ -917,19 +912,16 @@ msgid "Configure global search"
 msgstr "Konfigurera global sökning"
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31706"
 msgid "Enable global search for this media type"
 msgstr "Aktivera global sökning för denna medietyp"
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31707"
 msgid "Include 'plot' field in this search"
-msgstr "Inkludera fältet \"plot\" i denna sökning"
+msgstr "Inkludera fältet \"handling\" i denna sökning"
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31708"
 msgid "Include 'tag' field in this search"
 msgstr "Inkludera fältet \"tagg\" i denna sökning"
@@ -997,10 +989,9 @@ msgid "Clock, date and weather"
 msgstr "Klocka, datum och väder"
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31728"
 msgid "Make persistent across entire home screen, including widgets"
-msgstr "Gör den beständig över hela startskärmen, inklusive widgetar"
+msgstr "Gör den beständig över hela hemskärmen, inklusive widgetar"
 
 # /16x9/Content_Settings.xml
 msgctxt "#31729"
@@ -1058,16 +1049,14 @@ msgid "Trailers will be played back automatically from any widgets showing movie
 msgstr "Trailers kommer att spelas upp automatiskt från alla widgets som visar filmer eller tv-program. Aktivera alternativet \"Spotlight content with auto scroll\" ovan för att skapa en dynamisk spellista med trailers för alla objekt i widgeten. Ställ in fördröjning i sekunder innan trailern börjar spelas upp under Extras > Trailer autoplay"
 
 # /16x9/Variables_Labels_Media.xml
-#, fuzzy
 msgctxt "#31476"
 msgid "Enable clearlogos"
 msgstr "Aktivera clearlogos"
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31498"
 msgid "Prefer keyart for poster views"
-msgstr "Föredrar keyart för affischvisningar"
+msgstr "Föredra keyart för affischvisningar"
 
 # /16x9/Content_Settings.xml
 #, fuzzy
@@ -1088,10 +1077,9 @@ msgid "Remember 'landscape' is a custom art type. To ensure it is fetched locall
 msgstr "Kom ihåg att \"landscape\" är en anpassad konsttyp. För att säkerställa att den hämtas lokalt eller på distans av scrapers, se till att \"landscape\" ingår i dina vitlistor för konsttyper för filmer och / eller tv-program. Du kan göra detta genom att välja \"Rekommenderade Kodi-inställningar\" under Copacetic > Allmänt, eller genom att navigera till Inställningar > Media > Videor > Konstverk."
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31477"
 msgid "Prefer thumbnails for episodes instead of tv show fanart"
-msgstr "Föredrar miniatyrbilder för avsnitt istället för tv-serie fanart"
+msgstr "Föredra miniatyrbilder för avsnitt istället för fanart för tv-serie"
 
 # Views
 # /16x9/Content_Settings.xml
@@ -1150,7 +1138,6 @@ msgid "Enable scrolling on long titles instead of truncation (...)"
 msgstr "Aktivera rullning för långa titlar istället för avkortning (...)"
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31447"
 msgid "Enable view for add-on and program windows"
 msgstr "Aktivera vy för tilläggs- och programfönster"
@@ -1198,10 +1185,9 @@ msgid "Show unwatched episodes count"
 msgstr "Visa antalet osedda avsnitt"
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31551"
 msgid "Display the total number of unwatched episodes for a tv show or season on top of the progress bar."
-msgstr "Visa det totala antalet otittade avsnitt för ett tv-program eller en säsong ovanpå förloppsindikatorn."
+msgstr "Visa det totala antalet otittade avsnitt för en tv-serie eller en säsong ovanpå förloppsindikatorn."
 
 # /16x9/Content_Settings.xml
 # /16x9/Variables_Labels_Windows.xml
@@ -1244,7 +1230,6 @@ msgid "Overlay a binary user rating system (liked or not) on top of standard son
 msgstr "Lägg ett binärt användarbetygssystem (gillat eller inte) ovanpå standardanvändarbetyg för låtar. Användarbetyg som är lika med eller högre än detta tröskelvärde \"gillas\". Du kan \"gilla\" (ange ett användarbetyg som motsvarar tröskelvärdet) eller \"ogilla\" (ta bort användarbetyget) en låt via snabbmenyn eller den inbäddade musikspelaren om den är aktiverad under Extrafunktioner. Tröskelvärdet kommer också att användas av widgeten \"Gillade låtar\". Ställ in på \"Av\" för att inaktivera."
 
 # /16x9/Content_Settings.xml
-#, fuzzy
 msgctxt "#31484"
 msgid "Info screens"
 msgstr "Infoskärmar"
@@ -1599,7 +1584,7 @@ msgstr "Bildförhållande för video"
 # /16x9/Content.xml
 msgctxt "#31608"
 msgid "Audio codec"
-msgstr "Ljudcodec"
+msgstr "Ljudkodek"
 
 # /16x9/Content.xml
 msgctxt "#31609"
@@ -1629,7 +1614,7 @@ msgstr "Videoavkodare"
 # /16x9/Content.xml
 msgctxt "#31614"
 msgid "Pixel format"
-msgstr "Pixelformat"
+msgstr "Bildpunktsformat"
 
 # /16x9/Content.xml
 msgctxt "#31615"
